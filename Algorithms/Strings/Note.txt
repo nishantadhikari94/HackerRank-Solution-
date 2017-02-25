@@ -1,0 +1,3 @@
+String have Easy, Medium and Difficult section 
+Solutions given here are as per difficulty level
+But if you go serialwise then, first 17 problems are easy, then 4 medium, then appox 20 hard 
