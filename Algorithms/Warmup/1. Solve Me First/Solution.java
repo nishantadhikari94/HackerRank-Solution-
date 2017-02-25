@@ -1,4 +1,4 @@
-// Author : Adhikari Nishant 
+// Author : Nishant Adhikari
 // HackerRank : https://www.hackerrank.com/neucledo
 // Github : https://github.com/nishantadhikari94
 
