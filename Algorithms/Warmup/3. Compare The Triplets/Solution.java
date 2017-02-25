@@ -1,3 +1,7 @@
+// Author : Nishant Adhikari
+// HackerRank : https://www.hackerrank.com/neucledo
+// Github : https://github.com/nishantadhikari94
+
 import java.io.*;
 import java.util.*;
 import java.text.*;
